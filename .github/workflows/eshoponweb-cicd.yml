@@ -7,7 +7,7 @@ on: [push, workflow_dispatch]
 env:
   RESOURCE-GROUP: rg-eshoponweb-bullshit
   LOCATION: westeurope
-  TEMPLATE-FILE: .azure/bicep/webapp.bicep
+  TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9b26c706-2e67-488c-a1fb-9b1c1298e41c
   WEBAPP-NAME: eshoponweb-webapp-Nadav
 
