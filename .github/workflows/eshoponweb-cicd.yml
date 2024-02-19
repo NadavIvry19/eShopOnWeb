@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9b26c706-2e67-488c-a1fb-9b1c1298e41c
-  WEBAPP-NAME: eshoponweb-webapp-Nadav
+  WEBAPP-NAME: eshoponweb-webapp-nadavpsps
 
 
 jobs:
